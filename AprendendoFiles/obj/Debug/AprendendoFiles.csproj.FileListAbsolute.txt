@@ -1,0 +1,8 @@
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\bin\Debug\AprendendoFiles.exe.config
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\bin\Debug\AprendendoFiles.exe
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\bin\Debug\AprendendoFiles.pdb
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\obj\Debug\AprendendoFiles.csproj.AssemblyReference.cache
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\obj\Debug\AprendendoFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\obj\Debug\AprendendoFiles.csproj.CoreCompileInputs.cache
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\obj\Debug\AprendendoFiles.exe
+C:\Users\41557\Desktop\C#\AprendendoFiles\AprendendoFiles\obj\Debug\AprendendoFiles.pdb
