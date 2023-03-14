@@ -25,9 +25,32 @@ namespace AprendendoFiles
                 Console.ReadLine();*/
 
             StreamReader leitor = new StreamReader("teste.txt");
-            string conteudo = leitor.ReadToEnd();
-            
-            Console.WriteLine(conteudo);
+            //string conteudo = leitor.ReadToEnd(); (ele armazena todo o conteudo em uma unica string, vai imprimir tudo de uma vez)
+            //Console.WriteLine(conteudo);
+
+            /*Console.WriteLine(leitor.ReadLine()); //aqui aparece linha por linha 
+            Console.WriteLine(leitor.ReadLine());
+            Console.WriteLine(leitor.ReadLine());*/
+
+            List<string> linhas = new List<string>();
+            string linha = ""; //aqui aparece linha por linha 
+
+            while (linha != null)
+            {
+                linha = leitor.ReadLine();
+                if (linha != null)
+                {
+                    //Console.WriteLine(linha);
+                    linhas.Add(linha);// cada linha separada no arquivo está adicionando dentro da lista
+                }
+            }
+
+            Console.WriteLine(linhas[0]);
+
+            /*foreach(string nome in linhas)
+            {
+                Console.WriteLine(nome);
+            }*/
             Console.WriteLine("Arquvio gerado");
 
         }
